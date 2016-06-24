@@ -1,0 +1,6 @@
+{ "main": {
+ "msg" : "This is a json file",
+ "Windows" : "scripts",  
+ "Linux" : "scripts"
+ }
+}
